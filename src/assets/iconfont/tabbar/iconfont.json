@@ -1,0 +1,37 @@
+{
+  "id": "2374133",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1043314",
+      "name": " ic_tabbar_home",
+      "font_class": "tabbarhome",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "13168128",
+      "name": "03TABbar",
+      "font_class": "TABbar",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "13168130",
+      "name": "05TABbar",
+      "font_class": "TABbar1",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "18270348",
+      "name": "tabbar-icon-chanpin-default",
+      "font_class": "tabbar-icon-chanpin-default",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
